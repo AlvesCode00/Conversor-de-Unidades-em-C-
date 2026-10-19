@@ -1,0 +1,14 @@
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\bin\Debug\net8.0\Convecao.exe
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\bin\Debug\net8.0\Convecao.deps.json
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\bin\Debug\net8.0\Convecao.runtimeconfig.json
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\bin\Debug\net8.0\Convecao.dll
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\bin\Debug\net8.0\Convecao.pdb
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\Convecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\Convecao.AssemblyInfoInputs.cache
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\Convecao.AssemblyInfo.cs
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\Convecao.csproj.CoreCompileInputs.cache
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\Convecao.dll
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\refint\Convecao.dll
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\Convecao.pdb
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\Convecao.genruntimeconfig.cache
+C:\Users\wallacy.malves\source\repos\Convecao01\Convecao\obj\Debug\net8.0\ref\Convecao.dll
